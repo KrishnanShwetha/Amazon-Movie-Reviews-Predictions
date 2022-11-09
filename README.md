@@ -1,6 +1,7 @@
 # Amazon-Movie-Reviews-Predictions
 
 ABSTRACT
+
 In this paper, my goal is to predict the star ratings associated with user reviews from Amazon Movie Reviews using classical machine learning algorithms such as k-nearest neighbors (KNN), Naïve Bayes, Random forest classifier, Linear regression and Support Vector Machines. I examine features such as the length of the summary and full text review(before and after removing stop words), when the review was written, average score for each product, average score given by each user, number of exclamation marks and uppercase characters, standard deviation from the mean score, etc. Finally, I evaluate what the best machine learning models by using the k-fold cross-validation technique. I conduct accuracy tests using root mean squared error and a confusion matrix.
 
 INTRODUCTION – PRELIMINARY ANALYSIS
